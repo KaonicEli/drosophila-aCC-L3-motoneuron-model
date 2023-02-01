@@ -44,3 +44,4 @@ Tutorials for more manipulations.
 - [Python with NEURON](tutorial-python-neuron/README.md)
 - [Saturating synapses with stimulus](tutorial-synaptic-saturation/README.md)
 - [Replicating mini EPSCs and location-dependent membrane filtering for synaptic inputs](tutorial-synapse-activation/README.md)
+- Eli's Tutorial 
